@@ -1,4 +1,4 @@
-# 🎨 STM32F1 CAN Motor Controller for Origami-Inspired Soft Robotic Arms
+# 🎨 Motor Controller for Origami-Inspired Soft Robotic Arms
 
 ![GitHub](https://img.shields.io/github/license/your-username/your-repo)  
 ![STM32](https://img.shields.io/badge/STM32-F1-blue) ![CAN](https://img.shields.io/badge/CAN-2.0B-green) ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
